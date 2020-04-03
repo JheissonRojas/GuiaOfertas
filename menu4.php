@@ -1,0 +1,1 @@
+<a href="categorias.html" <? echo $_SESSION['var_class_active_categoria'] ?> id="cabecera_categoria">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp CATEGORIAS &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </a>
